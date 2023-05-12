@@ -14,4 +14,8 @@
 
 ### 1. Buatlah Database dengan nama Tugas_Praktikum1!
 
-   ![1](Gambar/Gambar 1.png)
+   ![image](https://github.com/Angga674/Latihan-1-Basisdata/assets/116695529/b9817095-40db-465d-9a65-d3b65198602d)
+
+### Penjelasan:
+Gunakan perintah `CREATE DATABASE nama_database;` untuk membuat database baru.
+
