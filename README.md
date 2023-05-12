@@ -3,8 +3,8 @@
 ## Profil
 | Variable | Isi |
 | -------- | --- |
-| **Nama** | Gilar Sumilar |
-| **NIM** | 312210407 |
+| **Nama** | Dafa Alfiana Erlangga |
+| **NIM** | 312210446 |
 | **Kelas** | TI.22.A.4 |
 | **Mata Kuliah** | Basis data |
 
