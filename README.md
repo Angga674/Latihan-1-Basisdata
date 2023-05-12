@@ -18,4 +18,5 @@
 
 ### Penjelasan:
 Gunakan perintah `CREATE DATABASE nama_database;` untuk membuat database baru.
+Dan gunakan `SHOW DATABASES;` untuk melihat database.
 
