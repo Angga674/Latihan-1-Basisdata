@@ -1,6 +1,10 @@
 # Latihan-1-Basisdata
 
-# Profil
-
-| Variabel | Isi |
+## Profil
+| Variable | Isi |
+| -------- | --- |
+| **Nama** | Gilar Sumilar |
+| **NIM** | 312210407 |
+| **Kelas** | TI.22.A.4 |
+| **Mata Kuliah** | Basis data |
 
