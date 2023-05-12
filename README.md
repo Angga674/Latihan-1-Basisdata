@@ -14,4 +14,4 @@
 
 ### 1. Buatlah Database dengan nama Tugas_Praktikum1!
 
-   ![1](Gambar/https://github.com/Angga674/Latihan-1-Basisdata/blob/master/Foto%20praktikum%201/Gambar%201.png)
+   ![1](Gambar/Gambar 1.png)
