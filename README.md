@@ -8,3 +8,8 @@
 | **Kelas** | TI.22.A.4 |
 | **Mata Kuliah** | Basis data |
 
+# Latihan membuat database, MySQL menggunakan cli
+
+## Tugas Praktikum
+
+### 1. Buatlah Database dengan nama Tugas_Praktikum1!
