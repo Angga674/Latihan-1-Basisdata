@@ -13,3 +13,5 @@
 ## Tugas Praktikum
 
 ### 1. Buatlah Database dengan nama Tugas_Praktikum1!
+
+   ![1](Gambar/
