@@ -50,16 +50,7 @@ Dan gunakan `SHOW DATABASE;` untuk melihat database yang dibuat.
 
 Catatan: Untuk VARCHAR(50), berfungsi seperti string untuk memberikan 50 kata dalam tabel.
 
-
-
-#### 2. Buat sebuah tabel dengan nama biodata(Nama, Alamat) didalam database Tugas_Praktikum1.
-#### 3. Tambahkan sebuah kolom keterangan (varchar 15), sebagai kolom terakhir!
-#### 2. Buat sebuah tabel dengan nama biodata(Nama, Alamat) didalam database Tugas_Praktikum1.
-#### 3. Tambahkan sebuah kolom keterangan (varchar 15), sebagai kolom terakhir!
-#### 2. Buat sebuah tabel dengan nama biodata(Nama, Alamat) didalam database Tugas_Praktikum1.
-#### 3. Tambahkan sebuah kolom keterangan (varchar 15), sebagai kolom terakhir!
-#### 2. Buat sebuah tabel dengan nama biodata(Nama, Alamat) didalam database Tugas_Praktikum1.
-#### 3. Tambahkan sebuah kolom keterangan (varchar 15), sebagai kolom terakhir!#### 4. Menambahkan kolom untuk id(Int 11) di bagian kolom pertama.
+#### 4. Menambahkan kolom untuk id(Int 11) di bagian kolom pertama.
 
 ![App Screenshot](https://github.com/Angga674/Latihan-1-Basisdata/blob/master/Foto%20praktikum%201/Gambar%203.png?raw=true)
 
